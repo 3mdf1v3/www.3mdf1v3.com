@@ -7,8 +7,10 @@ entries:
       - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
       - title: https://github.com/3mdf1v3 
         url: https://github.com/3mdf1v3
-      - title: "3mdf1v3@gmail.com"
+      - title: 3mdf1v3@gmail.com
         url: mailto:3mdf1v3@gmail.com
+      - title: my PGP key
+        url: https://raw.githubusercontent.com/3mdf1v3/www.3mdf1v3.com/master/pgp.asc
 
   - title: all posts
     post_list:
