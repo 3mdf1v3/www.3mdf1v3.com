@@ -11,30 +11,30 @@ entries:
       - title: my PGP key
         url: https://raw.githubusercontent.com/3mdf1v3/www.3mdf1v3.com/master/pgp.asc
 
-  - title: all posts
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
+        #  - title: all posts
+        #    post_list:
+        #      limit: 5
+        #      show_more: true
+        #      show_more_text: See archive...
+        #      show_more_url: archive.html
 
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
+        #  - title: posts by category
+        #    post_list:
+        #      category: example2
+        #      show_more: true
+        #      show_more_text: See more posts...
+        #      show_more_url: example2-archive.html
 
-  - title: rss
-    url: feed.xml
+        #  - title: rss
+        #    url: feed.xml
   
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
+        #  - title: another list
+        #    entries:
+        #      - title: with subitems
+        #        entries:
+        #         0 - title: with subsubitems
+        #          - title: example page
+        #            url: about
 
   - title: PRO TIP
     entries:
