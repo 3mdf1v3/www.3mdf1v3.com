@@ -2,7 +2,7 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: where you can find me
+  - title: where
     entries:
       - title: https://github.com/3mdf1v3 
         url: https://github.com/3mdf1v3
@@ -36,6 +36,6 @@ entries:
         #          - title: example page
         #            url: about
 
-  - title: about me
+  - title: about
     entries:
       - title: pwd, ls, cd, mkdir, rmdir, lsblk, mount, df, uname, ps , kill, service, batch, touch, cat, head, tail, cp, mv, less, ln, dd, alias, wget, git, iptables, netstat, traceroute, curl, find, which, locate, grep, egrep, sed, awk, xargs, clear, echo, sorl, uniq, which, sudo, chmod, chown, man, tar, w, who, bg, fg, id, stat, top, touch, vi 
