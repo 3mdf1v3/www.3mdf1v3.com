@@ -2,12 +2,14 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: where
+  - title: where to find me
     entries:
       - title: https://github.com/3mdf1v3 
         url: https://github.com/3mdf1v3
       - title: 3mdf1v3@gmail.com
         url: mailto:3mdf1v3@gmail.com
+      - title: @3mdf1v3
+        url: https://twitter.com/3mdf1v3
       - title: my PGP key
         url: https://raw.githubusercontent.com/3mdf1v3/www.3mdf1v3.com/master/pgp.asc
 
@@ -36,6 +38,6 @@ entries:
         #          - title: example page
         #            url: about
 
-  - title: about
+  - title: about me
     entries:
       - title: pwd, ls, cd, mkdir, rmdir, lsblk, mount, df, uname, ps , kill, service, batch, touch, cat, head, tail, cp, mv, less, ln, dd, alias, wget, git, iptables, netstat, traceroute, curl, find, which, locate, grep, egrep, sed, awk, xargs, clear, echo, sorl, uniq, which, sudo, chmod, chown, man, tar, w, who, bg, fg, id, stat, top, touch, vi 
