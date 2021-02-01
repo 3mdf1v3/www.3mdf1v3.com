@@ -38,4 +38,4 @@ entries:
 
   - title: about me
     entries:
-      - title: to edit this menu, edit _data/menu.yml file
+      - title: pwd, ls, cd, mkdir, rmdir, lsblk, mount, df, uname, ps , kill, service, batch, touch, cat, head, tail, cp, mv, less, ln, dd, alias 
